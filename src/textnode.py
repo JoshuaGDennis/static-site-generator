@@ -1,6 +1,4 @@
 from enum import Enum
-from unittest import case
-
 from htmlnode import HtmlNode
 
 class TextType(Enum):
